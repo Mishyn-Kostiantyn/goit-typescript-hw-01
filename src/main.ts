@@ -1,4 +1,14 @@
 import './style.css'
-
-
-
+import './basic/1.ts';
+import './basic/2.ts';
+import './basic/3.ts';
+import './generic/4.ts';
+import './basic/4.ts';
+import './basic/5.ts';
+import './basic/6.ts';
+import './basic/7.ts';
+import './generic/1.ts';
+import './generic/2.ts';
+import './generic/3.ts';
+import './generic/5.ts';
+import './generic/6.ts';
